@@ -1,5 +1,5 @@
 # BadSamsung
-Flipper Zero Badusb commands for Samsung devices
+Flipper Zero Badusb commands for Samsung devices (credit #hodlschool on discord)
 
 To see what ones work on the phone you have, simply connect your Flipper, navigate to APPS - BLUETOOTH - REMOTE - KEYBOARD 
 Then press each letter individually to see what ones work for your particular phone.
