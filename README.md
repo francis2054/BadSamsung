@@ -22,3 +22,5 @@ GUI v = Brings up Volume Control
 GUI n =  Push Notifications
 GUI / = Keyboard short cuts
 ```
+
+### This is a fresh addition so it has not been tested fully, feel free to open issues or pull requests
