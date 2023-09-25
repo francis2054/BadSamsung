@@ -24,3 +24,5 @@ GUI / = Keyboard short cuts
 ```
 
 ### This is a fresh addition so it has not been tested fully, feel free to open issues or pull requests
+
+Pinned on discord [here](https://discord.com/channels/740930220399525928/954422994057453579/1115758487427887194)
